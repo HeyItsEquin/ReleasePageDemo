@@ -1,0 +1,15 @@
+#downloads-container {
+    width: 300px;
+}
+
+.font-large {
+    font-size: 1.5em;
+}
+
+.font-medium {
+    font-size: 1.2em;
+}
+
+.header {
+    padding-bottom: 5vh;
+}
