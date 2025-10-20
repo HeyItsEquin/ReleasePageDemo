@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'fa-brands';
+    src: url('fa-brands-400.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'fa-regular';
+    src: url('fa-regular-400.woff2') format('woff2');
+}
+
+.fa-brands {
+    font-family: 'fa-brands';
+    font-weight: 400;
+}

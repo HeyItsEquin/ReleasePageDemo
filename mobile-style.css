@@ -10,6 +10,10 @@
     font-size: 1.2em;
 }
 
+.font-small {
+    font-size: 1em;
+}
+
 .header {
     padding-bottom: 5vh;
 }
